@@ -3,7 +3,7 @@ import 'package:helping_hands/Screens/Login/login_screen.dart';
 import 'package:helping_hands/Screens/Signup/components/background.dart';
 import 'package:helping_hands/Screens/Signup/components/or_divider.dart';
 import 'package:helping_hands/Screens/Signup/components/social_icon.dart';
-import 'package:helping_hands/Screens/visit_page.dart';
+import 'package:helping_hands/Screens/register_page.dart';
 import 'package:helping_hands/components/already_have_an_account_acheck.dart';
 import 'package:helping_hands/components/rounded_button.dart';
 import 'package:helping_hands/components/rounded_input_field.dart';
@@ -56,7 +56,7 @@ class _BodyState extends State<Body> {
                       email: email, password: password);
 
                   Navigator.push(context, MaterialPageRoute(builder: (context) {
-                    return VisitPage();
+                    return RegisterPage();
                   }));
                 } catch (e) {
                   print(e);
