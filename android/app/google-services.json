@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "836428216611",
+    "firebase_url": "https://helping-hands-c0362.firebaseio.com",
+    "project_id": "helping-hands-c0362",
+    "storage_bucket": "helping-hands-c0362.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836428216611:android:d74d1be5a96f364a2bb496",
+        "android_client_info": {
+          "package_name": "skcalci.helping_hands"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836428216611-g699hh6rqca45528bkl699mm5tto21lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZnt6ZRBEwkkPavwBjWjBDorOxxLI8Vgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836428216611-g699hh6rqca45528bkl699mm5tto21lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
