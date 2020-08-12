@@ -18,7 +18,6 @@ class _LoginDoneeState extends State<LoginDonee> {
   final _auth = FirebaseAuth.instance;
   String email;
   String password;
-
   @override
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
